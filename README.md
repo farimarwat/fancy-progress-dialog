@@ -1,7 +1,5 @@
 # Fancy Progress Dialog
-![Error Dialog](error.png)
-![Success Dialog](success.png)
-![Info Dialog](info.png)
+![Demo](01.gif)
 
 A fancy animated progress dialog having 12 loaders. My purpose is to replace the android default progress dialog which is deprecated now.
 I have made this in a short time and now uploading it for others. 
