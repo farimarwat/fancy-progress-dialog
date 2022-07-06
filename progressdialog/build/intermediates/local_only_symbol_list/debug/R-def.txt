@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color primary
+color primarydark
+color primarylight
+color txtloading
+drawable bg_dialog
+id lottie_loader
+id txt_loading
+layout dialog
+raw loader01
+raw loader02
+raw loader03
+raw loader04
+raw loader05
+raw loader06
+raw loader07
+raw loader08
+raw loader09
+raw loader10
+raw loader11
+raw loader12
+string app_name
+string loading
+style Theme.MyLoader

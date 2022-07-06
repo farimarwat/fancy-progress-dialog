@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Loader</string>
+    <string name="loading">Loading...</string>
+</resources>

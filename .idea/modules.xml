@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Loader.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Loader.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Loader.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Loader.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Loader.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Loader.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Loader.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Loader.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Loader.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/progressdialog/My_Loader.progressdialog.iml" filepath="$PROJECT_DIR$/.idea/modules/progressdialog/My_Loader.progressdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/progressdialog/My_Loader.progressdialog.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/progressdialog/My_Loader.progressdialog.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/progressdialog/My_Loader.progressdialog.main.iml" filepath="$PROJECT_DIR$/.idea/modules/progressdialog/My_Loader.progressdialog.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/progressdialog/My_Loader.progressdialog.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/progressdialog/My_Loader.progressdialog.unitTest.iml" />
+    </modules>
+  </component>
+</project>
